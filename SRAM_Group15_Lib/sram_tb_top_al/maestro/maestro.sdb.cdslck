@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      umunj3
+HostName                       ece-rhelsrv.ece.gatech.edu
+ProcessIdentifier              1425664
+ProcessCreationTime_UTC        1792332087
+ProcessCreationTime_Readable   Sun Oct 18 10:01:27 2026 EDT
+AppIdentifier                  /tools/software/cadence/ic/latest/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /nethome/umunj3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/sram_tb_top_al/maestro/maestro.sdb
+TimeEditLocked                 Sun Oct 18 10:02:51 2026 EDT

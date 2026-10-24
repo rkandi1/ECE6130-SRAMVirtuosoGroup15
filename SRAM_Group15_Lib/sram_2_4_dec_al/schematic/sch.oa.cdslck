@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      shossain49
+HostName                       ece-labsrv.ece.gatech.edu
+ProcessIdentifier              3338694
+ProcessCreationTime_UTC        1792791389
+ProcessCreationTime_Readable   Fri Oct 23 17:36:29 2026 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /nethome/shossain49/ECE6130_Updated/ECE6130_LAB/FreePDK45/ncsu_basekit/lib/SRAM_Group15_Lib/sram_2_4_dec_al/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Fri Oct 23 21:13:44 2026 EDT
