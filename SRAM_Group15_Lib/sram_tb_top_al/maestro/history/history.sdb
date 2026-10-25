@@ -3,13 +3,13 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" historyDataVersion="7" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Oct 24 12:22:43 2026</timestamp>
-			<uuid>{a6628434-1026-4f15-bc5f-a92bd5b43ebe}</uuid>
+			<timestamp>Oct 25 15:57:47 2026</timestamp>
+			<uuid>{d962c8f6-57ea-4d26-91c0-b082434b79b6}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
-			<resultsname>/nethome/umunj3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/sram_tb_top_al/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<resultsname>/nethome/rkandi3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/sram_tb_top_al/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
-			<psfdir>/nethome/umunj3/simulation/SRAM_Group15_Lib/sram_tb_top_al/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<psfdir>/nethome/rkandi3/simulation/SRAM_Group15_Lib/sram_tb_top_al/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/SRAM_Group15_Lib/sram_tb_top_al/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 			<historyPsfSize>Not Computed</historyPsfSize>
 		</historyentry>
