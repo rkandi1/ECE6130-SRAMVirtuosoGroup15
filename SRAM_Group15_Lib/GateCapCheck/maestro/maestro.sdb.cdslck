@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rkandi3
+HostName                       ece-labsrv.ece.gatech.edu
+ProcessIdentifier              2584581
+ProcessCreationTime_UTC        1792968087
+ProcessCreationTime_Readable   Sun Oct 25 18:41:27 2026 EDT
+AppIdentifier                  /tools/software/cadence/ic/latest/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /nethome/rkandi3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/GateCapCheck/maestro/maestro.sdb
+TimeEditLocked                 Sun Oct 25 20:47:59 2026 EDT
