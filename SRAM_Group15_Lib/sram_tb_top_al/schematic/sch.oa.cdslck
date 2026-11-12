@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      rkandi3
 HostName                       ece-labsrv.ece.gatech.edu
-ProcessIdentifier              2584581
-ProcessCreationTime_UTC        1792968097
-ProcessCreationTime_Readable   Sun Oct 25 18:41:37 2026 EDT
+ProcessIdentifier              3386144
+ProcessCreationTime_UTC        1794442309
+ProcessCreationTime_Readable   Wed Nov 11 19:11:49 2026 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /nethome/rkandi3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/sram_tb_top_al/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Sun Oct 25 18:42:38 2026 EDT
+TimeEditLocked                 Wed Nov 11 20:13:21 2026 EST

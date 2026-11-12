@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rkandi3
+HostName                       ece-labsrv.ece.gatech.edu
+ProcessIdentifier              33896
+ProcessCreationTime_UTC        1794335925
+ProcessCreationTime_Readable   Tue Nov 10 13:38:45 2026 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /nethome/rkandi3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/WLinNAND2/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Nov 10 15:59:47 2026 EST
