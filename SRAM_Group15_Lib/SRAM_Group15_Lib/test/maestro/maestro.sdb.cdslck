@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      shossain49
+HostName                       ece-labsrv.ece.gatech.edu
+ProcessIdentifier              3338694
+ProcessCreationTime_UTC        1792791380
+ProcessCreationTime_Readable   Fri Oct 23 17:36:20 2026 EDT
+AppIdentifier                  /tools/software/cadence/ic/latest/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /nethome/shossain49/ECE6130_Updated/ECE6130_LAB/FreePDK45/ncsu_basekit/lib/SRAM_Group15_Lib/test/maestro/maestro.sdb
+TimeEditLocked                 Fri Oct 23 18:38:08 2026 EDT
