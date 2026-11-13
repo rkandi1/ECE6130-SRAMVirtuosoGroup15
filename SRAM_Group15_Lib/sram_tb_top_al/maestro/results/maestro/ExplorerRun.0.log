@@ -1,13 +1,18 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Tue Nov 10 17:44:11 2026 
+Current time: Fri Nov 13 14:23:49 2026 
 Best design point: 1
 Design specs: 
 	SRAM_Group15_Lib_sram_tb_top_al_1	corner	Nominal - 
+	Ptotal		148.6u
+	t_write		Error	No
+	t_read		Error	No
+	p_vs_read		Error	No
+	p_vs_write		Error	No
 Design parameters: 
 
 ExplorerRun.0
-Number of points completed: 1
+Number of points completed: 4
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Tue Nov 10 17:44:57 2026 
+Current time: Fri Nov 13 14:35:16 2026 

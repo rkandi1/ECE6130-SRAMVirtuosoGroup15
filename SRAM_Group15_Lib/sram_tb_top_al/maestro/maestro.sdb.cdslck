@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      rkandi3
 HostName                       ece-labsrv.ece.gatech.edu
-ProcessIdentifier              2584581
-ProcessCreationTime_UTC        1792968087
-ProcessCreationTime_Readable   Sun Oct 25 18:41:27 2026 EDT
+ProcessIdentifier              1210052
+ProcessCreationTime_UTC        1794597758
+ProcessCreationTime_Readable   Fri Nov 13 14:22:38 2026 EST
 AppIdentifier                  /tools/software/cadence/ic/latest/tools.lnx86/dfII/bin/64bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
 FilePathUsedToEditLock         /nethome/rkandi3/ECE6130_Updated/ECE6130_LAB/Cadence/SRAM_Group15_Lib/sram_tb_top_al/maestro/maestro.sdb
-TimeEditLocked                 Sun Oct 25 18:52:00 2026 EDT
+TimeEditLocked                 Fri Nov 13 14:23:08 2026 EST

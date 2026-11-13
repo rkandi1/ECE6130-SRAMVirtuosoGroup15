@@ -34,7 +34,75 @@
 					<var>C
 						<value>2.3</value>
 					</var>
+					<var>mm
+						<value>0</value>
+					</var>
+					<var>Win
+						<value>360n</value>
+					</var>
+					<var>Wn
+						<value>360n</value>
+					</var>
+					<var>Wp
+						<value>270n</value>
+					</var>
+					<var>Wpc
+						<value>540n</value>
+					</var>
+					<var>Wt
+						<value>540n</value>
+					</var>
+					<var>VDD
+						<value>0.7 0.8 0.9 1.0</value>
+					</var>
+					<var>fclk
+						<value>1.0G</value>
+					</var>
 				</vars>
+				<outputs>
+					<output>BLM0
+						<evalType>point</evalType>
+					</output>
+					<output>CLK
+						<evalType>point</evalType>
+					</output>
+					<output>WL0
+						<evalType>point</evalType>
+					</output>
+					<output>WL5
+						<evalType>point</evalType>
+					</output>
+					<output>CS0
+						<evalType>point</evalType>
+					</output>
+					<output>CS2
+						<evalType>point</evalType>
+					</output>
+					<output>VDD
+						<evalType>point</evalType>
+					</output>
+					<output>Ptotal
+						<evalType>point</evalType>
+					</output>
+					<output>Q_write
+						<evalType>point</evalType>
+					</output>
+					<output>Q_read
+						<evalType>point</evalType>
+					</output>
+					<output>t_write
+						<evalType>point</evalType>
+					</output>
+					<output>t_read
+						<evalType>point</evalType>
+					</output>
+					<output>p_vs_read
+						<evalType>point</evalType>
+					</output>
+					<output>p_vs_write
+						<evalType>point</evalType>
+					</output>
+				</outputs>
 			</test>
 		</tests>
 		<extensions>
