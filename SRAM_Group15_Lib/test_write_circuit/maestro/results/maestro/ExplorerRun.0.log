@@ -1,0 +1,22 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Nov 22 15:47:08 2026 
+Best design point: 1
+Design specs: 
+	SRAM_Group15_Lib_test_write_circuit_1	corner	Nominal - 
+	Enable_Delay		Error	No
+	Write_Time_0		Error	No
+	Lowest_BL_0		1.006
+	Write_Time_1		Error	No
+	Lowest_BLB_1		1.007
+	Power_V0_Active		4.972u
+	Power_Precharge		119.6n
+	Power_V0_Idle		3.07u
+	Precharge Delay		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 5
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Sun Nov 22 15:47:30 2026 

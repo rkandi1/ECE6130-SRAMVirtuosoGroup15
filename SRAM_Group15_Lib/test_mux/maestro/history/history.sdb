@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<setupdb version="8">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" historyDataVersion="7" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Nov 10 22:05:19 2026</timestamp>
+			<uuid>{f2cb69c7-a94d-4a02-ae5e-1b1938d18a20}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/nethome/shossain49/ECE6130_Updated/ECE6130_LAB/FreePDK45/ncsu_basekit/lib/SRAM_Group15_Lib/test_mux/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<psfdir>/nethome/shossain49/simulation/SRAM_Group15_Lib/test_mux/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>/nethome/shossain49/simulation/SRAM_Group15_Lib/test_mux/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+			<historyPsfSize>Not Computed</historyPsfSize>
+		</historyentry>
+	</history>
+</setupdb>
